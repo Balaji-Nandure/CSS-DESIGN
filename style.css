@@ -160,11 +160,10 @@ img {
     font-size: 18px;
     /* line-height: 1.7; */
     line-height: 1.7;
-    color: #ecfcf5 ;
+    color: #ecfcf5;
 }
-.testimonial-author{
-    color:#c3fae8
-
+.testimonial-author {
+    color: #c3fae8;
 }
 
 /* CHAIRS */
@@ -218,4 +217,4 @@ footer {
     margin-bottom: 48px;
     font-size: 14px;
     color: #495057;
-} */
+}
